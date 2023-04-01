@@ -4,7 +4,7 @@ Roll a dice.
 
 The following steps will allow you to view small project.
 
-1. Download the Repo. 
+1. Download the Repo from the latest v1.0 release on the right-hand side.
 2. Unzip the Repo using WinRar or 7zip and enter the password (U19L2_x983m)
 3. Open the folder, "site_dice" and double-click on "index.html"
 4. Self explanatory
